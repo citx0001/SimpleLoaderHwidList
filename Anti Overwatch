@@ -1,0 +1,786 @@
+{
+  "Aimbot": [
+    {
+      "Enabled": true,
+      "Fov": 2.5,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Key": 1,
+      "On key": true,
+      "Smooth": 9.76
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Aimlock": true,
+      "Enabled": true,
+      "Fov": 2.29,
+      "Key": 1,
+      "On key": true,
+      "Smooth": 2.31
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Anti aim": {
+    "Pitch angle": -0.71
+  },
+  "Backtrack": {
+    "Enabled": true
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Color": [
+            0.92261696,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true,
+          "Material": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {
+          "Color": [
+            0.82539654,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true,
+          "Material": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "Occluded": {
+        "Box": {
+          "Color": [
+            1.0,
+            0.0,
+            0.19047642,
+            1.0
+          ],
+          "Enabled": true
+        },
+        "Enabled": true,
+        "Name": {
+          "Color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Enabled": true
+        },
+        "Snapline": {
+          "Color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Enabled": true
+        }
+      },
+      "Visible": {
+        "Box": {
+          "Color": [
+            0.9841261,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true,
+          "Fill": {
+            "Color": [
+              1.0,
+              0.0,
+              0.0,
+              0.4
+            ]
+          }
+        },
+        "Enabled": true,
+        "Health Bar": true,
+        "Name": {
+          "Color": [
+            0.9523802,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        },
+        "Weapon": {
+          "Color": [
+            0.98412704,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Glow": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Misc": {
+    "Auto reload": true,
+    "Auto strafe": true,
+    "Bunny hop": true,
+    "Edge Jump": true,
+    "Edge Jump Key": 6,
+    "Fake prime": true,
+    "Fast Stop": true,
+    "Fast duck": true,
+    "Grenade predict": true,
+    "Hit sound": 2,
+    "Noscope crosshair": {
+      "Color": [
+        1.0,
+        0.0,
+        0.9206352,
+        1.0
+      ],
+      "Enabled": true
+    },
+    "Radar hack": true,
+    "Recoil crosshair": {
+      "Color": [
+        1.0,
+        0.0,
+        0.9206352,
+        1.0
+      ],
+      "Enabled": true
+    },
+    "Reveal ranks": true,
+    "Spectator list": {
+      "Enabled": true,
+      "Rainbow": true
+    }
+  },
+  "Skin changer": [
+    {
+      "Custom name": "Femboy Plugs",
+      "Definition index": 42,
+      "Definition override": 516,
+      "Definition override vector index": 15,
+      "Enabled": true,
+      "Paint Kit": 421,
+      "Paint Kit vector index": 155
+    },
+    {
+      "Definition index": 5028,
+      "Definition override": 5030,
+      "Definition override vector index": 4,
+      "Definition vector index": 1,
+      "Enabled": true,
+      "Paint Kit": 10037,
+      "Paint Kit vector index": 35
+    },
+    {
+      "Custom name": "Femboy CITX",
+      "Definition index": 7,
+      "Definition vector index": 2,
+      "Enabled": true,
+      "Paint Kit": 707,
+      "Paint Kit vector index": 21,
+      "Stickers": [
+        {
+          "Kit": 2442,
+          "Kit vector index": 1
+        },
+        {
+          "Kit": 2442,
+          "Kit vector index": 1
+        },
+        {
+          "Kit": 2442,
+          "Kit vector index": 1
+        },
+        {
+          "Kit": 2442,
+          "Kit vector index": 1
+        },
+        {
+          "Kit": 2442,
+          "Kit vector index": 1
+        }
+      ]
+    },
+    {},
+    {
+      "Definition index": 9,
+      "Definition vector index": 4,
+      "Enabled": true,
+      "Paint Kit": 344,
+      "Paint Kit vector index": 76
+    },
+    {},
+    {
+      "Custom name": "Onepopper",
+      "Definition vector index": 6,
+      "Enabled": true,
+      "Paint Kit": 37,
+      "Paint Kit vector index": 130
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 4,
+      "Definition vector index": 12,
+      "Enabled": true,
+      "Paint Kit": 38,
+      "Paint Kit vector index": 296
+    },
+    {},
+    {},
+    {
+      "Definition index": 16,
+      "Definition vector index": 15,
+      "Enabled": true,
+      "Paint Kit": 695,
+      "Paint Kit vector index": 375
+    },
+    {
+      "Definition index": 17,
+      "Definition vector index": 16,
+      "Enabled": true,
+      "Paint Kit": 433,
+      "Paint Kit vector index": 401
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 61,
+      "Definition vector index": 34,
+      "Enabled": true,
+      "Paint Kit": 705,
+      "Paint Kit vector index": 792,
+      "StatTrak": 7
+    },
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.35,
+        0.4,
+        0.61,
+        0.62
+      ],
+      "ButtonActive": [
+        0.46,
+        0.54,
+        0.8,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.4,
+        0.48,
+        0.71,
+        0.79
+      ],
+      "CheckMark": [
+        0.9,
+        0.9,
+        0.9,
+        0.5
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.43,
+        0.43,
+        0.43,
+        0.39
+      ],
+      "FrameBgActive": [
+        0.42,
+        0.41,
+        0.64,
+        0.69
+      ],
+      "FrameBgHovered": [
+        0.47,
+        0.47,
+        0.69,
+        0.4
+      ],
+      "Header": [
+        0.4,
+        0.4,
+        0.9,
+        0.45
+      ],
+      "HeaderActive": [
+        0.53,
+        0.53,
+        0.87,
+        0.8
+      ],
+      "HeaderHovered": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.4,
+        0.4,
+        0.55,
+        0.8
+      ],
+      "ModalWindowDimBg": [
+        0.2,
+        0.2,
+        0.2,
+        0.35
+      ],
+      "NavHighlight": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PopupBg": [
+        0.11,
+        0.11,
+        0.14,
+        0.92
+      ],
+      "ResizeGrip": [
+        1.0,
+        1.0,
+        1.0,
+        0.16
+      ],
+      "ResizeGripActive": [
+        0.78,
+        0.82,
+        1.0,
+        0.9
+      ],
+      "ResizeGripHovered": [
+        0.78,
+        0.82,
+        1.0,
+        0.6
+      ],
+      "ScrollbarBg": [
+        0.2,
+        0.25,
+        0.3,
+        0.6
+      ],
+      "ScrollbarGrab": [
+        0.4,
+        0.4,
+        0.8,
+        0.3
+      ],
+      "ScrollbarGrabActive": [
+        0.41,
+        0.39,
+        0.8,
+        0.6
+      ],
+      "ScrollbarGrabHovered": [
+        0.4,
+        0.4,
+        0.8,
+        0.4
+      ],
+      "Separator": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "SeparatorActive": [
+        0.7,
+        0.7,
+        0.9,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.6,
+        0.6,
+        0.7,
+        1.0
+      ],
+      "SliderGrab": [
+        1.0,
+        1.0,
+        1.0,
+        0.3
+      ],
+      "SliderGrabActive": [
+        0.41,
+        0.39,
+        0.8,
+        0.6
+      ],
+      "Tab": [
+        0.336,
+        0.336,
+        0.684,
+        0.786
+      ],
+      "TabActive": [
+        0.40399998,
+        0.40399998,
+        0.726,
+        0.842
+      ],
+      "TabHovered": [
+        0.45,
+        0.45,
+        0.9,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.2832,
+        0.2832,
+        0.56880003,
+        0.8212
+      ],
+      "TabUnfocusedActive": [
+        0.3504,
+        0.3504,
+        0.6516,
+        0.8372
+      ],
+      "Text": [
+        0.9,
+        0.9,
+        0.9,
+        1.0
+      ],
+      "TextDisabled": [
+        0.6,
+        0.6,
+        0.6,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.0,
+        0.0,
+        1.0,
+        0.35
+      ],
+      "TitleBg": [
+        0.27,
+        0.27,
+        0.54,
+        0.83
+      ],
+      "TitleBgActive": [
+        0.32,
+        0.32,
+        0.63,
+        0.87
+      ],
+      "TitleBgCollapsed": [
+        0.4,
+        0.4,
+        0.8,
+        0.2
+      ],
+      "WindowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.7
+      ]
+    },
+    "Menu colors": 2,
+    "Menu style": 1
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Deagle spinner": true,
+    "Hit marker": 1,
+    "No blur": true,
+    "No shadows": true,
+    "Playermodel CT": 1,
+    "Playermodel T": 18,
+    "Sky": {
+      "Color": [
+        0.9345217,
+        0.0,
+        1.0
+      ],
+      "Enabled": true
+    },
+    "Skybox": 24,
+    "Thirdperson": true,
+    "Thirdperson distance": 101,
+    "Thirdperson key": 4,
+    "Viewmodel FOV": 60,
+    "Wireframe smoke": true,
+    "World": {
+      "Color": [
+        0.94392526,
+        0.9439158,
+        0.9439246
+      ]
+    }
+  }
+}

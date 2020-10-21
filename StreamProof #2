@@ -1,0 +1,693 @@
+{
+  "Aimbot": [
+    {
+      "Aimlock": true,
+      "Fov": 4.1,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Key": 1,
+      "On key": true,
+      "Smooth": 11.08
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Anti aim": {
+    "Pitch angle": -0.71
+  },
+  "Backtrack": {
+    "Enabled": true,
+    "Ignore smoke": true
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Color": [
+            1.0,
+            0.99999,
+            0.99999,
+            1.0
+          ],
+          "Enabled": true,
+          "Health based": true,
+          "Material": 6
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "Occluded": {
+        "Box": {
+          "Color": [
+            0.63529414,
+            0.043137256,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        },
+        "Name": {
+          "Color": [
+            0.63529414,
+            0.003921569,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Enabled": true
+        },
+        "Snapline": {
+          "Color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        },
+        "Weapon": {
+          "Color": [
+            0.63529414,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        }
+      },
+      "Visible": {
+        "Box": {
+          "Color": [
+            0.63529414,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        },
+        "Name": {
+          "Color": [
+            0.6349201,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Enabled": true
+        },
+        "Weapon": {
+          "Color": [
+            0.63529414,
+            0.015686275,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        }
+      }
+    },
+    "Other Entities": {
+      "Planted C4": {
+        "Enabled": true,
+        "Name": {
+          "Color": [
+            0.63529414,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "Enabled": true
+        }
+      }
+    },
+    "Weapons": {
+      "C4": {
+        "Name": {
+          "Color": [
+            0.63529414,
+            0.0,
+            1.0,
+            1.0
+          ]
+        }
+      }
+    }
+  },
+  "Glow": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Misc": {
+    "Auto strafe": true,
+    "Bunny hop": true,
+    "Fast Stop": true
+  },
+  "Skin changer": [
+    {
+      "Custom name": "I will rip open your anus",
+      "Definition index": 42,
+      "Definition override": 525,
+      "Definition override vector index": 3,
+      "Enabled": true,
+      "Paint Kit": 855,
+      "Paint Kit vector index": 162,
+      "StatTrak": 1
+    },
+    {
+      "Definition index": 5028,
+      "Definition override": 5032,
+      "Definition override vector index": 6,
+      "Definition vector index": 1,
+      "Enabled": true,
+      "Paint Kit": 10053,
+      "Paint Kit vector index": 10
+    },
+    {
+      "Definition index": 7,
+      "Definition vector index": 2,
+      "Enabled": true,
+      "Paint Kit": 724,
+      "Paint Kit vector index": 35
+    },
+    {},
+    {
+      "Definition index": 9,
+      "Definition vector index": 4,
+      "Enabled": true,
+      "Paint Kit": 51,
+      "Paint Kit vector index": 83
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 4,
+      "Definition vector index": 12,
+      "Enabled": true,
+      "Paint Kit": 38,
+      "Paint Kit vector index": 296
+    },
+    {},
+    {},
+    {
+      "Definition index": 16,
+      "Definition vector index": 15,
+      "Enabled": true,
+      "Paint Kit": 695,
+      "Paint Kit vector index": 375
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 61,
+      "Definition vector index": 34,
+      "Enabled": true,
+      "Paint Kit": 653,
+      "Paint Kit vector index": 799
+    },
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "ButtonActive": [
+        0.06,
+        0.53,
+        0.98,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "CheckMark": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.16,
+        0.29,
+        0.48,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "FrameBgHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "Header": [
+        0.26,
+        0.59,
+        0.98,
+        0.31
+      ],
+      "HeaderActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.26,
+        0.59,
+        0.98,
+        0.25
+      ],
+      "ResizeGripActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.95
+      ],
+      "ResizeGripHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.51,
+        0.51,
+        0.51,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.1,
+        0.4,
+        0.75,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.1,
+        0.4,
+        0.75,
+        0.78
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        0.19999999,
+        0.40999997,
+        0.68,
+        1.0
+      ],
+      "TabHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.13599998,
+        0.26199996,
+        0.424,
+        1.0
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.26,
+        0.59,
+        0.98,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.16,
+        0.29,
+        0.48,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.06,
+        0.06,
+        0.06,
+        0.94
+      ]
+    }
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}
